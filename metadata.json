@@ -1,0 +1,6 @@
+{
+  "name": "Nutritional Planner",
+  "description": "An interactive nutritional planner featuring customizable meals, nutritional programs, and daily tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
